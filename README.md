@@ -1,4 +1,4 @@
-# ATV Remote - [Download (v1.0.0)](https://github.com/jameskho512/atv-remote/releases/)
+# ATV Remote - [Download (v1.0.0)](https://github.com/jameskho512/atv-remote/releases/download/v1.0.0/atv-remote-1.0.0.apk)
 
 An Android remote for Apple TV and Sony TVs. It talks to your devices directly over your home network, with no account, ads, or analytics.
 
