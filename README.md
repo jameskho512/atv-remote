@@ -1,6 +1,6 @@
 # ATV Remote
 
-An Android remote for Apple TV and Sony Bravia TV. It talks to your devices directly over your home network, with no account, ads, or analytics.
+An Android remote for Apple TV and Sony TVs. It talks to your devices directly over your home network, with no account, ads, or analytics.
 
 > **Unofficial project.** Not affiliated with or endorsed by Apple or Sony. See [Disclaimer](#disclaimer).  
 > I built this for my own Apple TV and a Sony Bravia 8 II, and that's all I've tested it on. Other Sony TVs with `IP Control` should work, but this isn't guaranteed. Other brands use different protocols and aren't supported. Issues and pull requests are welcome.
