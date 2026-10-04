@@ -1,0 +1,3 @@
+-keep class org.bouncycastle.crypto.** { *; }
+-keep class org.bouncycastle.math.** { *; }
+-dontwarn org.bouncycastle.**

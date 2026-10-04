@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ATVRemote" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF101114</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
